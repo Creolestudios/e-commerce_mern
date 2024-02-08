@@ -5,7 +5,7 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 
-This project is part of my [MERN Stack From Scratch | eCommerce Platform](https://www.traversymedia.com/mern-stack-from-scratch) course. It is a full-featured shopping cart with PayPal & credit/debit payments. 
+It is a full-featured shopping cart with PayPal & credit/debit payments. 
 
   
 
@@ -26,11 +26,6 @@ This project is part of my [MERN Stack From Scratch | eCommerce Platform](https:
 - [Build & Deploy](#build--deploy)
 
 - [Seed Database](#seed-database)
-
-- [Original code](#original-code)
-
-
-
   
 
 <!-- tocstop -->
