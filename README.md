@@ -51,6 +51,16 @@ It is a full-featured shopping cart with PayPal & credit/debit payments.
 
 - Database seeder (products & users)
 
+## Installation Guide
+
+  
+
+### Requirements
+
+- [Nodejs](https://nodejs.org/en/download)
+
+- [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
+
 ## Usage
 
 - Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
