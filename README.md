@@ -3,7 +3,7 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 It is a full-featured shopping cart with PayPal & credit/debit payments.
-[Take tour of Chat Application](https://www.loom.com/share/7bfaa651382f46e0959480fec7e662e4)
+[Take tour of ECommerce Application](https://www.loom.com/share/7bfaa651382f46e0959480fec7e662e4)
 
 <!-- toc -->
 
