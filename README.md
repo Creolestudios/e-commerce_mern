@@ -1,8 +1,9 @@
 # ECommerce Platform
 
-> eCommerce platform built with the MERN stack & Redux.
+Explore a user-friendly interface that prioritizes simplicity without compromising on functionality. Our E-commerce MERN (MongoDB, Express.js, React, Node.js) app is designed to make navigation smooth, ensuring a delightful shopping experience for users of all backgrounds.
 
-It is a full-featured shopping cart with PayPal & credit/debit payments.
+Easily find the products you're looking for with search and filtering options. Order them with signing in to the account. Having all the options like payment and cart to store the items selected.
+
 [Take tour of ECommerce Application](https://www.loom.com/share/7bfaa651382f46e0959480fec7e662e4)
 
 <!-- toc -->
